@@ -1348,6 +1348,26 @@
                 "ts"
             ]
         },
+        "TypeScript_JSX":{
+            "base":"c",
+            "quotes":[
+                [
+                    "\\\"",
+                    "\\\""
+                ],
+                [
+                    "'",
+                    "'"
+                ],
+                [
+                    "`",
+                    "`"
+                ]
+            ],
+            "extensions":[
+                "tsx"
+            ]
+        },
         "UnrealScript":{
             "name":"Unreal Script",
             "base":"c",
