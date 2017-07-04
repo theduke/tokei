@@ -1345,7 +1345,27 @@
                 ]
             ],
             "extensions":[
-                "ts",
+                "ts"
+            ]
+        },
+        "TypeScriptJsx":{
+            "name": "Typescript JSX",
+            "base":"c",
+            "quotes":[
+                [
+                    "\\\"",
+                    "\\\""
+                ],
+                [
+                    "'",
+                    "'"
+                ],
+                [
+                    "`",
+                    "`"
+                ]
+            ],
+            "extensions":[
                 "tsx"
             ]
         },
